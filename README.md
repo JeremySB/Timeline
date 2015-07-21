@@ -1,0 +1,3 @@
+# Timeline
+
+Unfinished project to have an interactive world history timeline that pulls from Wikipedia. Needs lots more work...
